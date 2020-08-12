@@ -101,7 +101,7 @@ web
 cd web && yarn serve && cd -
 ```
 
-Then open http://localhost:8080/
+Then open http://localhost:400/dev
 
 #### Build Web for Production
 
